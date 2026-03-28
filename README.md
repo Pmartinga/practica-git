@@ -1,6 +1,1 @@
-Hola mundo Git soy Pedro
-Nueva línea
-Nueva línea 2
-Nueva línea 3
-Nueva línea 4
-Nueva línea 5
+nuevo ajuste mierda
